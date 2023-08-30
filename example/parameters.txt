@@ -1,0 +1,4 @@
+bamfile	input.bam
+noperbase	True
+flag	4
+threads	3

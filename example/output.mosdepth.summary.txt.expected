@@ -1,0 +1,5 @@
+chrom	length	bases	mean	min	max
+Campylobacter_upsaliensis	1623294	773029	0.48	0	6
+Lactobacillus_gasseri	1894360	1073610	0.57	0	7
+S_epidermidis.LRKNS118	2715537	1507091	0.55	0	20
+total	6233191	3353730	0.54	0	20

@@ -1,0 +1,2 @@
+Prefix plugins/Mosdepth/example/
+Plugin Mosdepth inputfile parameters.txt outputfile output
